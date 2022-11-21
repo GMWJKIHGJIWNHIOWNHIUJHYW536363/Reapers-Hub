@@ -1,7 +1,7 @@
 local httpService = game:GetService('HttpService')
 
 local SaveManager = {} do
-	SaveManager.Folder = "Reaper_S Business"
+	SaveManager.Folder = "Reaper's Hub"
 	SaveManager.Ignore = {}
 	SaveManager.Parser = {
 		Toggle = {
